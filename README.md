@@ -1,1 +1,9 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# canvas-rendering-react
+
+- Clone the repo
+- Go to cloned directory
+- Run `npm i` to install dependecies
+- Run `npm run dev` to serve the app on `http://localhost:3000`
+
+
+The whole code is inside `pages/index.js`
