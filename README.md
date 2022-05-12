@@ -11,6 +11,6 @@ The whole code is inside `pages/index.js`
 
 ### Sample Canvas with Image and Reactangle on it
 
-<img src="public/draw-image-rectangle-on-canvas.png" />
+<img src="public/draw-image-rectangle-on-canvas.png" alt="Image on Canvas - Reactjs | NextJs" />
 
 
