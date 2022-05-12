@@ -7,3 +7,10 @@
 
 
 The whole code is inside `pages/index.js`
+
+
+### Sample Canvas with Image and Reactangle on it
+
+<img src="public/draw-image-rectangle-on-canvas.png" />
+
+
